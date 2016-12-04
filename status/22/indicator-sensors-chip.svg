@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="22"
+   width="22"
+   version="1.1"
+   viewBox="0 0 22 22"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="indicator-sensors-chip.svg">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="814"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="10.727273"
+     inkscape:cx="-19.29661"
+     inkscape:cy="11"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <g
+     id="g4135"
+     transform="translate(2,-2.4318695e-5)">
+    <rect
+       rx="1"
+       ry="1"
+       height="15"
+       width="8"
+       y="4.0000243"
+       x="5"
+       id="rect6"
+       style="fill:#ffffff;fill-opacity:1" />
+    <path
+       d="M 2.25,5 C 2.1115,5 2,5.1115 2,5.25 l 0,0.5 C 2,5.8885 2.1115,6 2.25,6 L 4,6 4,5 2.25,5 Z m 0,2 C 2.1115,7 2,7.1115 2,7.25 l 0,0.5 C 2,7.8885 2.1115,8 2.25,8 L 4,8 4,7 2.25,7 Z m 0,2 C 2.1115,9 2,9.1115 2,9.25 l 0,0.5 C 2,9.8885 2.1115,10 2.25,10 L 4,10 4,9 2.25,9 Z m 0,2 C 2.1115,11 2,11.1115 2,11.25 l 0,0.5 C 2,11.8885 2.1115,12 2.25,12 L 4,12 4,11 2.25,11 Z m 0,2 C 2.1115,13 2,13.1115 2,13.25 l 0,0.5 C 2,13.8885 2.1115,14 2.25,14 L 4,14 4,13 2.25,13 Z m 0,2 C 2.1115,15 2,15.1115 2,15.25 l 0,0.5 C 2,15.8885 2.1115,16 2.25,16 L 4,16 4,15 2.25,15 Z m 0,2 C 2.1115,17 2,17.1115 2,17.25 l 0,0.5 C 2,17.8885 2.1115,18 2.25,18 L 4,18 4,17 2.25,17 Z"
+       id="path8"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:1" />
+    <path
+       d="M 15.75,5 C 15.8885,5 16,5.1115 16,5.25 l 0,0.5 C 16,5.8885 15.8885,6 15.75,6 L 14,6 14,5 15.75,5 Z m 0,2 C 15.8885,7 16,7.1115 16,7.25 l 0,0.5 C 16,7.8885 15.8885,8 15.75,8 L 14,8 14,7 15.75,7 Z m 0,2 C 15.8885,9 16,9.1115 16,9.25 l 0,0.5 C 16,9.8885 15.8885,10 15.75,10 L 14,10 14,9 15.75,9 Z m 0,2 c 0.1385,0 0.25,0.1115 0.25,0.25 l 0,0.5 C 16,11.8885 15.8885,12 15.75,12 l -1.75,0 0,-1 1.75,0 z m 0,2 c 0.1385,0 0.25,0.1115 0.25,0.25 l 0,0.5 C 16,13.8885 15.8885,14 15.75,14 l -1.75,0 0,-1 1.75,0 z m 0,2 c 0.1385,0 0.25,0.1115 0.25,0.25 l 0,0.5 C 16,15.8885 15.8885,16 15.75,16 l -1.75,0 0,-1 1.75,0 z m 0,2 c 0.1385,0 0.25,0.1115 0.25,0.25 l 0,0.5 C 16,17.8885 15.8885,18 15.75,18 l -1.75,0 0,-1 1.75,0 z"
+       id="path10"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:1" />
+  </g>
+</svg>

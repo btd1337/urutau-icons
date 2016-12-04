@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg4061"
+   height="48"
+   width="48"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="gufw.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1535"
+     inkscape:window-height="876"
+     id="namedview33"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="-10.779661"
+     inkscape:cy="24"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4061" />
+  <defs
+     id="defs4063">
+    <linearGradient
+       id="linearGradient3026"
+       y2="40.496"
+       gradientUnits="userSpaceOnUse"
+       x2="71.204"
+       gradientTransform="matrix(1.617 0 0 1.617 -92.707 -21.06)"
+       y1="15.369"
+       x1="71.204">
+      <stop
+         id="stop4808-4"
+         stop-color="#fff"
+         offset="0" />
+      <stop
+         id="stop4810-0"
+         stop-color="#fff"
+         stop-opacity=".23529"
+         offset=".42448" />
+      <stop
+         id="stop4812-8"
+         stop-color="#fff"
+         stop-opacity=".15686"
+         offset=".82090" />
+      <stop
+         id="stop4814-0"
+         stop-color="#fff"
+         stop-opacity=".39216"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       id="radialGradient3029"
+       fx="4.459"
+       fy="8.5089"
+       gradientUnits="userSpaceOnUse"
+       cy="8.6258"
+       cx="15.026"
+       gradientTransform="matrix(-3.4973e-8 1.8855 -1.7764 -5.4723e-8 39.14 -7.9932)"
+       r="20">
+      <stop
+         id="stop3848"
+         stop-color="#d1ffcb"
+         offset="0" />
+      <stop
+         id="stop3850"
+         stop-color="#ccfd76"
+         offset=".26238" />
+      <stop
+         id="stop3852"
+         stop-color="#a5f940"
+         offset=".66094" />
+      <stop
+         id="stop3854"
+         stop-color="#6de420"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient3032"
+       gradientUnits="userSpaceOnUse"
+       cy="3.99"
+       cx="23.896"
+       gradientTransform="matrix(0 2.8885 -3.8128 0 39.213 -65.95)"
+       r="20.397">
+      <stop
+         id="stop3244-9-33-7-0-9"
+         stop-color="#fff"
+         offset="0" />
+      <stop
+         id="stop3246-3-5-0-8-5"
+         stop-color="#ddd"
+         offset=".26238" />
+      <stop
+         id="stop3248-1-7-8-8-1"
+         stop-color="#abacae"
+         offset=".66094" />
+      <stop
+         id="stop3250-9-3-0-5-1"
+         stop-color="#89898b"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient3035"
+       gradientUnits="userSpaceOnUse"
+       cy="186.17"
+       cx="99.157"
+       gradientTransform="matrix(.27083 0 0 .087623 -2.8551 25.187)"
+       r="62.769">
+      <stop
+         id="stop3822-2-6-3"
+         stop-color="#3d3d3d"
+         offset="0" />
+      <stop
+         id="stop3864-8-7-7"
+         stop-color="#686868"
+         stop-opacity=".49804"
+         offset=".5" />
+      <stop
+         id="stop3824-1-2-5"
+         stop-color="#686868"
+         stop-opacity="0"
+         offset="1" />
+    </radialGradient>
+  </defs>
+  <metadata
+     id="metadata4066">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="path2555-7-2"
+     style="color:#000000"
+     d="m24 3.5c-11.311 0-20.5 9.189-20.5 20.5s9.189 20.5 20.5 20.5 20.5-9.189 20.5-20.5-9.189-20.5-20.5-20.5z"
+     fill="url(#radialGradient3032)" />
+  <path
+     id="path2555-7-65"
+     style="color:#000000"
+     d="m24 3.5c-11.311 0-20.5 9.189-20.5 20.5s9.189 20.5 20.5 20.5 20.5-9.189 20.5-20.5-9.189-20.5-20.5-20.5z"
+     fill="url(#radialGradient3029)" />
+  <path
+     id="path4176"
+     opacity=".8"
+     stroke-linejoin="round"
+     style="color:#000000"
+     d="m43.5 24c0 10.77-8.73 19.5-19.5 19.5s-19.5-8.73-19.5-19.5 8.73-19.5 19.5-19.5 19.5 8.73 19.5 19.5z"
+     stroke="url(#linearGradient3026)"
+     stroke-linecap="round"
+     fill="none" />
+  <path
+     id="path2555-7-1-7"
+     opacity=".5"
+     stroke-linejoin="round"
+     style="color:#000000"
+     d="m24 3.5001c-11.311 0-20.5 9.1888-20.5 20.5s9.1888 20.5 20.5 20.5 20.5-9.1888 20.5-20.5-9.189-20.5-20.5-20.5z"
+     stroke="#539800"
+     stroke-linecap="round"
+     fill="none" />
+  <g
+     id="g3"
+     fill="#333"
+     transform="matrix(.30402 0 0 .30402 8.6259 9.3878)">
+    <g
+       id="g3037"
+       fill="#333">
+      <path
+         id="path5"
+         d="m50 18.454c-0.83 0.631-12.21 9.098-26.805 12.02-1.924 33.68 26.787 51.116 26.805 51.106 0.018 0.01 28.729-17.426 26.805-51.107-14.595-2.921-26.805-12.019-26.805-12.019z" />
+      <path
+         id="path7"
+         d="m86.295 25.047c-0.059-1.023-0.801-1.877-1.806-2.079-17.798-3.563-32.994-14.753-33.144-14.865-0.804-0.599-1.908-0.594-2.707 0.014-0.599 0.456-14.881 11.2-33.127 14.852-1.005 0.201-1.747 1.056-1.806 2.079-1.462 25.592 10.546 44.003 20.877 54.94 3.877 4.105 7.515 7.14 9.885 8.962 1.359 1.045 2.457 1.813 3.138 2.273 1.272 0.86 1.638 1.106 2.34 1.119 0.029 0.001 0.058 0.001 0.086 0.001 0.692 0 1.11-0.279 2.212-1.018 0.597-0.4 1.562-1.067 2.767-1.978 2.097-1.583 5.34-4.219 8.883-7.786 6.658-6.701 11.957-14.163 15.75-22.177 5.1-10.772 7.338-22.325 6.652-34.337zm-19.716 46.747c-6.834 8.57-13.898 13.791-16.579 15.614-2.681-1.823-9.744-7.043-16.581-15.618-10.695-13.414-15.837-28.47-15.297-44.776 15.405-3.479 27.866-11.526 31.889-14.339 4.079 2.809 16.754 10.909 31.867 14.338 0.54 16.308-4.602 31.366-15.299 44.781z" />
+    </g>
+  </g>
+</svg>

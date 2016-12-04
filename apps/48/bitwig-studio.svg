@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg4951"
+   height="48px"
+   width="48px"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="bitwig-studio.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1535"
+     inkscape:window-height="876"
+     id="namedview92"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="-10.779661"
+     inkscape:cy="24"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4951" />
+  <defs
+     id="defs4953">
+    <linearGradient
+       id="linearGradient3214"
+       y2="40.496"
+       gradientUnits="userSpaceOnUse"
+       x2="71.204"
+       gradientTransform="matrix(1.617,0,0,1.617,-92.707,-21.06)"
+       y1="15.369"
+       x1="71.204">
+      <stop
+         id="stop4808-4"
+         stop-color="#fff"
+         offset="0" />
+      <stop
+         id="stop4810-0"
+         stop-color="#fff"
+         stop-opacity=".23529"
+         offset=".42448" />
+      <stop
+         id="stop4812-8"
+         stop-color="#fff"
+         stop-opacity=".15686"
+         offset=".82090" />
+      <stop
+         id="stop4814-0"
+         stop-color="#fff"
+         stop-opacity=".39216"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       id="radialGradient3217"
+       gradientUnits="userSpaceOnUse"
+       cy="3.99"
+       cx="23.896"
+       gradientTransform="matrix(0,2.8885,-3.8128,0,39.213,-65.95)"
+       r="20.397">
+      <stop
+         id="stop4366"
+         stop-color="#ff6182"
+         offset="0" />
+      <stop
+         id="stop4368"
+         stop-color="#ff557a"
+         offset=".66094" />
+      <stop
+         id="stop4370"
+         stop-color="#c4454e"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient3220"
+       gradientUnits="userSpaceOnUse"
+       cy="186.17"
+       cx="99.157"
+       gradientTransform="matrix(0.27083,0,0,0.087623,-2.8551,25.187)"
+       r="62.769">
+      <stop
+         id="stop3822-2-6-3"
+         stop-color="#3d3d3d"
+         offset="0" />
+      <stop
+         id="stop3864-8-7-7"
+         stop-color="#686868"
+         stop-opacity=".49804"
+         offset=".5" />
+      <stop
+         id="stop3824-1-2-5"
+         stop-color="#686868"
+         stop-opacity="0"
+         offset="1" />
+    </radialGradient>
+  </defs>
+  <metadata
+     id="metadata4956">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     inkscape:connector-curvature="0"
+     d="M 24,3.5 C 12.689,3.5 3.5,12.6888 3.5,24 3.5,35.3112 12.6888,44.5 24,44.5 35.3112,44.5 44.5,35.3112 44.5,24 44.5,12.6888 35.311,3.5 24,3.5 Z"
+     style="color:#000000;fill:url(#radialGradient3217)"
+     id="path2555-7-2" />
+  <path
+     inkscape:connector-curvature="0"
+     d="M 43.5,24 C 43.5,34.77 34.77,43.5 24,43.5 13.23,43.5 4.5,34.77 4.5,24 4.5,13.23 13.23,4.5 24,4.5 34.77,4.5 43.5,13.23 43.5,24 Z"
+     style="color:#000000;opacity:0.3;fill:none;stroke:url(#linearGradient3214);stroke-linecap:round;stroke-linejoin:round"
+     id="path4176" />
+  <path
+     inkscape:connector-curvature="0"
+     d="M 24,3.5 C 12.689,3.5 3.5,12.689 3.5,24 3.5,35.311 12.689,44.5 24,44.5 35.311,44.5 44.5,35.311 44.5,24 44.5,12.689 35.311,3.5 24,3.5 Z"
+     style="color:#000000;opacity:0.7;fill:none;stroke:#ff4452"
+     id="path3871" />
+  <g
+     style="opacity:0.15;fill:none;stroke:#000000;stroke-width:2"
+     transform="translate(5,1)"
+     id="g4382">
+    <g
+       style="stroke-linecap:round;stroke-linejoin:round"
+       id="g4384">
+      <circle
+         style="opacity:1"
+         r="2"
+         cx="12"
+         cy="18"
+         id="circle4387" />
+      <circle
+         style="opacity:1"
+         r="2"
+         cy="18"
+         cx="17"
+         id="circle4389" />
+      <circle
+         style="opacity:1"
+         r="2"
+         cx="22"
+         cy="18"
+         id="circle4391" />
+      <circle
+         style="opacity:1"
+         r="2"
+         cy="18"
+         cx="27"
+         id="circle4393" />
+    </g>
+    <g
+       style="stroke-linecap:round;stroke-linejoin:round"
+       transform="translate(0,5)"
+       id="g4395">
+      <circle
+         style="opacity:1"
+         r="2"
+         cy="18"
+         cx="12"
+         id="circle4397" />
+      <circle
+         style="opacity:1"
+         r="2"
+         cx="17"
+         cy="18"
+         id="circle4399" />
+      <circle
+         style="opacity:1"
+         r="2"
+         cy="18"
+         cx="22"
+         id="circle4401" />
+      <circle
+         style="opacity:1"
+         r="2"
+         cx="27"
+         cy="18"
+         id="circle4403" />
+    </g>
+    <g
+       transform="translate(5,5)"
+       id="g4405">
+      <circle
+         style="opacity:1;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+         r="2"
+         cy="18"
+         cx="27"
+         id="circle4407" />
+    </g>
+    <g
+       transform="translate(-20,5)"
+       id="g4409">
+      <circle
+         style="opacity:1;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+         r="2"
+         cx="27"
+         cy="18"
+         id="circle4411" />
+    </g>
+    <g
+       transform="translate(-20,10)"
+       id="g4413">
+      <circle
+         style="opacity:1;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+         r="2"
+         cy="18"
+         cx="27"
+         id="circle4415" />
+    </g>
+    <g
+       transform="translate(-15,10)"
+       id="g4417">
+      <circle
+         style="opacity:1;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+         r="2"
+         cx="27"
+         cy="18"
+         id="circle4419" />
+    </g>
+    <g
+       transform="translate(5,10)"
+       id="g4421">
+      <circle
+         style="opacity:1;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+         r="2"
+         cy="18"
+         cx="27"
+         id="circle4423" />
+    </g>
+    <g
+       transform="translate(0,10)"
+       id="g4425">
+      <circle
+         style="opacity:1;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+         r="2"
+         cx="27"
+         cy="18"
+         id="circle4427" />
+    </g>
+  </g>
+  <g
+     style="opacity:0.15;fill:none;stroke:#000000"
+     transform="translate(5,1)"
+     id="g4429">
+    <g
+       style="stroke-linecap:round;stroke-linejoin:round"
+       id="g4431">
+      <circle
+         style="opacity:1"
+         r="2"
+         cy="18"
+         cx="12"
+         id="circle4433" />
+      <circle
+         style="opacity:1"
+         r="2"
+         cx="17"
+         cy="18"
+         id="circle4435" />
+      <circle
+         style="opacity:1"
+         r="2"
+         cy="18"
+         cx="22"
+         id="circle4437" />
+      <circle
+         style="opacity:1"
+         r="2"
+         cx="27"
+         cy="18"
+         id="circle4439" />
+    </g>
+    <g
+       style="stroke-linecap:round;stroke-linejoin:round"
+       transform="translate(0,5)"
+       id="g4441">
+      <circle
+         style="opacity:1"
+         r="2"
+         cx="12"
+         cy="18"
+         id="circle4443" />
+      <circle
+         style="opacity:1"
+         r="2"
+         cy="18"
+         cx="17"
+         id="circle4445" />
+      <circle
+         style="opacity:1"
+         r="2"
+         cx="22"
+         cy="18"
+         id="circle4447" />
+      <circle
+         style="opacity:1"
+         r="2"
+         cy="18"
+         cx="27"
+         id="circle4449" />
+    </g>
+    <g
+       transform="translate(5,5)"
+       id="g4451">
+      <circle
+         style="opacity:1;fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round"
+         r="2"
+         cx="27"
+         cy="18"
+         id="circle4453" />
+    </g>
+    <g
+       transform="translate(-20,5)"
+       id="g4455">
+      <circle
+         style="opacity:1;fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round"
+         r="2"
+         cy="18"
+         cx="27"
+         id="circle4457" />
+    </g>
+    <g
+       transform="translate(-20,10)"
+       id="g4459">
+      <circle
+         style="opacity:1;fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round"
+         r="2"
+         cx="27"
+         cy="18"
+         id="circle4461" />
+    </g>
+    <g
+       transform="translate(-15,10)"
+       id="g4463">
+      <circle
+         style="opacity:1;fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round"
+         r="2"
+         cy="18"
+         cx="27"
+         id="circle4465" />
+    </g>
+    <g
+       transform="translate(5,10)"
+       id="g4467">
+      <circle
+         style="opacity:1;fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round"
+         r="2"
+         cx="27"
+         cy="18"
+         id="circle4469" />
+    </g>
+    <g
+       transform="translate(0,10)"
+       id="g4471">
+      <circle
+         style="opacity:1;fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round"
+         r="2"
+         cy="18"
+         cx="27"
+         id="circle4473" />
+    </g>
+  </g>
+  <g
+     transform="translate(5,1)"
+     id="g4420">
+    <g
+       style="fill:#ffffff"
+       id="g4372">
+      <circle
+         r="2"
+         cy="18"
+         cx="12"
+         id="path4364" />
+      <circle
+         r="2"
+         cx="17"
+         cy="18"
+         id="circle4366" />
+      <circle
+         r="2"
+         cy="18"
+         cx="22"
+         id="circle4368" />
+      <circle
+         r="2"
+         cx="27"
+         cy="18"
+         id="circle4370" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(0,5)"
+       id="g4378">
+      <circle
+         r="2"
+         cx="12"
+         cy="18"
+         id="circle4380" />
+      <circle
+         r="2"
+         cy="18"
+         cx="17"
+         id="circle4382" />
+      <circle
+         r="2"
+         cx="22"
+         cy="18"
+         id="circle4384" />
+      <circle
+         r="2"
+         cy="18"
+         cx="27"
+         id="circle4386" />
+    </g>
+    <g
+       transform="translate(5,5)"
+       id="g4388">
+      <circle
+         style="fill:#ffffff"
+         r="2"
+         cx="27"
+         cy="18"
+         id="circle4396" />
+    </g>
+    <g
+       transform="translate(-20,5)"
+       id="g4400">
+      <circle
+         style="fill:#ffffff"
+         r="2"
+         cy="18"
+         cx="27"
+         id="circle4402" />
+    </g>
+    <g
+       transform="translate(-20,10)"
+       id="g4404">
+      <circle
+         style="fill:#ffffff"
+         r="2"
+         cx="27"
+         cy="18"
+         id="circle4406" />
+    </g>
+    <g
+       transform="translate(-15,10)"
+       id="g4408">
+      <circle
+         style="fill:#ffffff"
+         r="2"
+         cy="18"
+         cx="27"
+         id="circle4410" />
+    </g>
+    <g
+       transform="translate(5,10)"
+       id="g4412">
+      <circle
+         style="fill:#ffffff"
+         r="2"
+         cx="27"
+         cy="18"
+         id="circle4414" />
+    </g>
+    <g
+       transform="translate(0,10)"
+       id="g4416">
+      <circle
+         style="fill:#ffffff"
+         r="2"
+         cy="18"
+         cx="27"
+         id="circle4418" />
+    </g>
+  </g>
+</svg>

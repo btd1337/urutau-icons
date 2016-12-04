@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="22"
+   width="22"
+   version="1.1"
+   viewBox="0 0 22 22"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="kazam-stopped.svg">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="814"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="-21.050847"
+     inkscape:cy="14.293947"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <g
+     id="g4135"
+     transform="translate(-1,-1.0000248)">
+    <circle
+       cx="12"
+       cy="12.000025"
+       r="7.5"
+       id="circle6"
+       style="fill:none;stroke:#ffffff;stroke-opacity:1" />
+    <path
+       d="m 12,6 2.887,5 1.67,-2.8926 A 6,6 0 0 0 12,6 Z M 10.906,6.1055 A 6,6 0 0 0 6.8047,9.0078 L 12.578,9.002 10.906,6.1055 Z m 6.285,2.9023 -2.888,5.0042 3.338,0.009 A 6,6 0 0 0 18,12 6,6 0 0 0 17.191,9.0078 Z M 9.6875,10.004 6.3477,10.008 A 6,6 0 0 0 6,12 6,6 0 0 0 6.8086,14.992 l 2.8789,-4.988 z m 0.0059,1.994 -0.002,0.002 1.1546,2 2.304,0.008 0,-0.002 -2.304,-0.01 -1.1526,-1.998 z M 9.1133,13.002 7.4434,15.893 A 6,6 0 0 0 12,18 L 9.1133,13.002 Z m 2.3107,2 1.67,2.894 a 6,6 0 0 0 4.084,-2.876 l -5.754,-0.018 z"
+       id="path8"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:1" />
+    <path
+       d="m 13.154,10 -2.3105,0 -1.1523,1.9961 1.1543,2 2.3047,0.01 1.1582,-2.0078 -1.1543,-2 z"
+       id="path10"
+       inkscape:connector-curvature="0"
+       style="opacity:0.4;fill:#ffffff;fill-opacity:1" />
+  </g>
+</svg>
