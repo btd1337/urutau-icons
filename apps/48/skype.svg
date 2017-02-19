@@ -15,8 +15,8 @@
    viewBox="0 0 48 48.000001"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="skype.svg">
+   inkscape:version="0.91 r"
+   sodipodi:docname="skype-48.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -105,50 +105,6 @@
        x2="24"
        y2="43"
        gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       id="linearGradient3120"
-       y2="44.341"
-       gradientUnits="userSpaceOnUse"
-       x2="71.204002"
-       gradientTransform="matrix(-0.36437387,0,0,0.36437387,65.133794,1005.913)"
-       y1="6.2375998"
-       x1="71.204002">
-      <stop
-         id="stop4013-8"
-         stop-color="#fff"
-         offset="0" />
-      <stop
-         id="stop4015-5"
-         stop-color="#fff"
-         stop-opacity=".23529"
-         offset=".50776" />
-      <stop
-         id="stop4017-6"
-         stop-color="#fff"
-         stop-opacity=".15686"
-         offset=".83457" />
-      <stop
-         id="stop4019-1"
-         stop-color="#fff"
-         stop-opacity=".39216"
-         offset="1" />
-    </linearGradient>
-    <radialGradient
-       id="radialGradient3124"
-       gradientUnits="userSpaceOnUse"
-       cy="8.4497995"
-       cx="3.9721999"
-       gradientTransform="matrix(0,0.95137966,1.0064416,-2.5896146e-8,30.49188,1001.3775)"
-       r="14.099">
-      <stop
-         id="stop3752-3-2-0"
-         stop-color="#d25a5a"
-         offset="0" />
-      <stop
-         id="stop3754-7-2-8"
-         stop-color="#df3d3d"
-         offset="1" />
-    </radialGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -158,14 +114,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.1645992"
-     inkscape:cx="-38.763604"
+     inkscape:cx="13.84661"
      inkscape:cy="24.819984"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:window-width="1366"
-     inkscape:window-height="712"
+     inkscape:window-height="713"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1">
@@ -181,7 +137,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
