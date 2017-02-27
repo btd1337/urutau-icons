@@ -44,4 +44,4 @@ rm -R ~/.icons/elementary-full-icon-theme
 ```
 <br>
 <br>
-echo "The project is starting now, help us improve it!"
+######The project is starting now, help us improve it. Submit new icons!
