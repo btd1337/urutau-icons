@@ -1,4 +1,4 @@
-# elementary-full-icon-theme
+# Elementary Full Icon Theme
 A mega pack of icons for elementary OS Loki.
 
 ![alt tag](https://raw.githubusercontent.com/btd1337/elementary-full-icon-theme/master/preview/img1.jpeg)
@@ -6,42 +6,40 @@ A mega pack of icons for elementary OS Loki.
 ![alt tag](https://raw.githubusercontent.com/btd1337/elementary-full-icon-theme/master/preview/img2.jpeg)
 
 ### Installation:
-<p>
-<p>
-####First Installation?
-<br>
+
+#### First Installation?
+
 _Install Git if you don't already have it installed._
 ```bash
 sudo apt install git
 ```
-<br>
+
 * Create icon folder in your /home:
 ```bash
 mkdir ~/.icons
 cd ~/.icons
 ```
-<br>
+
 * Clone the repository (or download files):
 ```bash
 git clone https://github.com/btd1337/elementary-full-icon-theme
 ```
-<br>
+
 * Set theme:
 ```bash
 gsettings set org.gnome.desktop.interface icon-theme "elementary-full-icon-theme"
 ```
-####Update?
-<br>
+#### Update?
+
 ```bash
 cd ~/.icons/elementary-full-icon-theme
 git pull
 ```
-<br>
-####Uninstall?
+
+#### Uninstall?
 ```bash
 gsettings set org.gnome.desktop.interface icon-theme "elementary"
 rm -R ~/.icons/elementary-full-icon-theme
 ```
-<br>
-<br>
-######The project is starting now, help us improve it. Submit new icons!
+
+###### The project is starting now, help us improve it. Submit new icons!
