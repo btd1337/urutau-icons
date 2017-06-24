@@ -8,7 +8,7 @@ A mega pack of icons for elementary OS Loki.
 
 ![Third Screenshot](https://raw.githubusercontent.com/btd1337/elementary-full-icon-theme/master/preview/img3.png)
 
-![Fourth Screenshot](https://raw.githubusercontent.com/btd1337/elementary-full-icon-theme/master/preview/img3.png)  
+![Fourth Screenshot](https://raw.githubusercontent.com/btd1337/elementary-full-icon-theme/master/preview/img4.png)  
 
 ## Installation:
 
