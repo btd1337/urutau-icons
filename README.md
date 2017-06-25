@@ -41,4 +41,8 @@ Set theme:
     gsettings set org.gnome.desktop.interface icon-theme "elementary"
     rm -R ~/.icons/elementary-full-icon-theme
 
+### Donate
+
+[![paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=X85LVKF3HYPZL&lc=US&item_name=btd1337&item_number=elementary%2dicons&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
+
 ## The project is starting now, help us improve it. Submit new icons!
