@@ -18,8 +18,8 @@ function replaceLink() {
 }
 
 function main() {
-	# local sizes=(16 24 32 48 64 128 symbolic)
-	local sizes=(64 128 symbolic)  
+	local sizes=(16 24 32 48 64 128 symbolic)
+	# local sizes=(64 128 symbolic)  
 	
 	while :
     do
