@@ -1,4 +1,4 @@
-# elementary Full Icon Theme
+# Urutau Icons
 
 A mega pack of icons for elementary OS Loki.
 
@@ -16,30 +16,30 @@ A mega pack of icons for elementary OS Loki.
 
 Install Git if you don't already have it installed.
 
-    sudo apt install git
+    $ sudo apt install git
 
 Create icon folder in your /home:  
 
-    mkdir ~/.icons
-    cd ~/.icons
+    $ mkdir ~/.icons
+    $ cd ~/.icons
 
 Clone the repository (or download files):  
 
-    git clone https://github.com/btd1337/elementary-full-icon-theme
+    $ git clone https://github.com/btd1337/urutau-icons
 
 Set theme:  
 
-    gsettings set org.gnome.desktop.interface icon-theme "elementary-full-icon-theme"
+    $ gsettings set org.gnome.desktop.interface icon-theme "urutau-icons"
 
 ### Update?
 
-    cd ~/.icons/elementary-full-icon-theme
-    git pull
+    $ cd ~/.icons/urutau-icons
+    $ git pull
 
 ### Uninstall?
 
-    gsettings set org.gnome.desktop.interface icon-theme "elementary"
-    rm -R ~/.icons/elementary-full-icon-theme
+    $ gsettings set org.gnome.desktop.interface icon-theme "elementary"
+    $ rm -R ~/.icons/urutau-icons
 
 ### Donate
 
