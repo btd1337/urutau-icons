@@ -1,6 +1,8 @@
-# Urutau Icons
-
-![Logo](https://raw.githubusercontent.com/btd1337/elementary-full-icon-theme/master/logo.png) A package of icons that transforms the third-party icons with the elementary appearance.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/btd1337/elementary-full-icon-theme/master/logo.png"><br>
+  <b>Urutau Icons</b><br><br>
+  A package of icons that transforms the third-party icons with the elementary appearance.<br><br>
+</p>
 
 ![First Screenshot](https://raw.githubusercontent.com/btd1337/elementary-full-icon-theme/master/preview/img1.jpeg)  
 
