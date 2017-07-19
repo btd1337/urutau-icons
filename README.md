@@ -1,6 +1,6 @@
-# Urutau Icons
+# (https://raw.githubusercontent.com/btd1337/elementary-full-icon-theme/master/logo.svg) Urutau Icons
 
-A mega pack of icons for elementary OS Loki.
+A package of icons that transforms the third-party icons with the elementary appearance.
 
 ![First Screenshot](https://raw.githubusercontent.com/btd1337/elementary-full-icon-theme/master/preview/img1.jpeg)  
 
