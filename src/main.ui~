@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated with glade 3.18.3 -->
+<interface>
+  <requires lib="gtk+" version="3.12"/>
+  <object class="GtkImage" id="img-tip">
+    <property name="visible">True</property>
+    <property name="can_focus">False</property>
+    <property name="tooltip_text" translatable="yes">Learn more about the style of elementary icons.</property>
+    <property name="stock">gtk-info</property>
+  </object>
+  <object class="GtkWindow" id="main-window">
+    <property name="width_request">300</property>
+    <property name="height_request">400</property>
+    <property name="can_focus">False</property>
+    <property name="title" translatable="yes">Urutau Icons</property>
+    <property name="resizable">False</property>
+    <property name="window_position">center</property>
+    <property name="default_width">300</property>
+    <property name="default_height">400</property>
+    <child>
+      <object class="GtkLayout" id="layout1">
+        <property name="width_request">300</property>
+        <property name="height_request">400</property>
+        <property name="visible">True</property>
+        <property name="can_focus">False</property>
+        <property name="hscroll_policy">natural</property>
+        <property name="vscroll_policy">natural</property>
+        <property name="width">400</property>
+        <property name="height">600</property>
+        <child>
+          <object class="GtkLabel" id="lbl-ativar">
+            <property name="width_request">90</property>
+            <property name="height_request">24</property>
+            <property name="visible">True</property>
+            <property name="can_focus">False</property>
+            <property name="label" translatable="yes">Enable Theme</property>
+            <attributes>
+              <attribute name="font-desc" value="Raleway Medium 10"/>
+            </attributes>
+          </object>
+          <packing>
+            <property name="x">69</property>
+            <property name="y">185</property>
+          </packing>
+        </child>
+        <child>
+          <object class="GtkImage" id="image1">
+            <property name="width_request">100</property>
+            <property name="height_request">80</property>
+            <property name="visible">True</property>
+            <property name="can_focus">False</property>
+            <property name="pixbuf">logo.png</property>
+          </object>
+          <packing>
+            <property name="x">92</property>
+            <property name="y">30</property>
+          </packing>
+        </child>
+        <child>
+          <object class="GtkLabel" id="lbl-name">
+            <property name="width_request">115</property>
+            <property name="height_request">30</property>
+            <property name="visible">True</property>
+            <property name="can_focus">False</property>
+            <property name="label" translatable="yes">Urutau Icons</property>
+            <attributes>
+              <attribute name="font-desc" value="Raleway Medium 14"/>
+              <attribute name="style" value="normal"/>
+              <attribute name="weight" value="semibold"/>
+            </attributes>
+          </object>
+          <packing>
+            <property name="x">83</property>
+            <property name="y">116</property>
+          </packing>
+        </child>
+        <child>
+          <object class="GtkButton" id="btn-update">
+            <property name="label" translatable="yes">Update</property>
+            <property name="width_request">100</property>
+            <property name="height_request">25</property>
+            <property name="visible">True</property>
+            <property name="can_focus">True</property>
+            <property name="receives_default">True</property>
+            <property name="xalign">0.51999998092651367</property>
+            <signal name="clicked" handler="show_tip_iconography" swapped="no"/>
+          </object>
+          <packing>
+            <property name="x">159</property>
+            <property name="y">247</property>
+          </packing>
+        </child>
+        <child>
+          <object class="GtkButton" id="btn-submit">
+            <property name="label" translatable="yes">Submit Icon</property>
+            <property name="width_request">100</property>
+            <property name="height_request">25</property>
+            <property name="visible">True</property>
+            <property name="can_focus">True</property>
+            <property name="receives_default">True</property>
+            <property name="tooltip_text" translatable="yes">Open a new Issue or send a Pull Request for the Repository. It's necessary to send the icons in the following sizes: 16, 24, 32, 48, 64, 128px.</property>
+            <signal name="clicked" handler="submit_icon" swapped="no"/>
+          </object>
+          <packing>
+            <property name="x">45</property>
+            <property name="y">248</property>
+          </packing>
+        </child>
+        <child>
+          <object class="GtkButton" id="btn-tip">
+            <property name="width_request">28</property>
+            <property name="height_request">24</property>
+            <property name="visible">True</property>
+            <property name="can_focus">True</property>
+            <property name="receives_default">True</property>
+            <property name="opacity">0.93000000000000005</property>
+            <property name="resize_mode">immediate</property>
+            <property name="image">img-tip</property>
+            <property name="relief">none</property>
+            <property name="always_show_image">True</property>
+            <signal name="clicked" handler="show_tip_iconography" swapped="no"/>
+          </object>
+          <packing>
+            <property name="x">14</property>
+            <property name="y">249</property>
+          </packing>
+        </child>
+        <child>
+          <object class="GtkSwitch" id="switch1">
+            <property name="use_action_appearance">True</property>
+            <property name="width_request">52</property>
+            <property name="height_request">24</property>
+            <property name="visible">True</property>
+            <property name="can_focus">True</property>
+            <property name="valign">start</property>
+            <signal name="state-set" handler="change_state" swapped="no"/>
+          </object>
+          <packing>
+            <property name="x">171</property>
+            <property name="y">184</property>
+          </packing>
+        </child>
+      </object>
+    </child>
+  </object>
+</interface>
