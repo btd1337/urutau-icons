@@ -20,14 +20,9 @@ Install Git if you don't already have it installed.
 
     $ sudo apt install git
 
-Create icon folder in your /home:  
-
-    $ mkdir ~/.icons
-    $ cd ~/.icons
-
 Clone the repository (or download files):  
 
-    $ git clone https://github.com/btd1337/urutau-icons
+    $ sudo git clone https://github.com/btd1337/urutau-icons /usr/share/icons
 
 Set theme:  
 
@@ -35,13 +30,13 @@ Set theme:
 
 ### Update?
 
-    $ cd ~/.icons/urutau-icons
-    $ git pull
+    $ cd /usr/share/icons/urutau-icons
+    $ sudo git pull
 
 ### Uninstall?
 
     $ gsettings set org.gnome.desktop.interface icon-theme "elementary"
-    $ rm -R ~/.icons/urutau-icons
+    $ sudo rm -R /usr/share/icons/urutau-icons
 
 ### Donate
 
