@@ -22,7 +22,7 @@ Install Git if you don't already have it installed.
 
 Clone the repository (or download files):  
 
-    $ sudo git clone https://github.com/btd1337/urutau-icons /usr/share/icons
+    $ sudo git clone https://github.com/btd1337/urutau-icons.git /usr/share/icons/urutau-icons
 
 Set theme:  
 
