@@ -20,7 +20,7 @@ function main() {
 
 function getDirectories() {
     local current=''
-    cd /usr/share/icons/elementary
+    cd /usr/share/icons/elementary 
     for directory in */
     do
         current="$(echo $directory)"                    # directory name include /
@@ -36,12 +36,12 @@ function getDirectories() {
 function fileList() {
     local directory=$1
     local size=$2
-    local search_dir=(/usr/share/icons/elementary/$directory/$size/*)    # directory name include /
+    local search_dir=( $(find /usr/share/icons/elementary/$directory/$size/ -type f) )    
     
     for entry in "${search_dir[@]}"
     do
-      removeIcon ${entry##*/} $directory $size         #${entry##*/} => it's necessary to not include the icon path
-      #generateSymlink ${entry##*/} $folder $size
+     removeIcon ${entry##*/} $directory $size         #${entry##*/} => it's necessary to not include the icon path
+     generateSymlink ${entry##*/} $directory $size
     done
 }
 
@@ -49,6 +49,7 @@ function removeIcon() {
     local icon=$1
     local directory=$2
     local size=$3
+
     rm $directory/$size/$icon
 }
 
@@ -56,8 +57,7 @@ function generateSymlink() {
     local icon=$1
     local directory=$2
     local size=$3
-    
-    cd $folder/$size/
+    cd $directory/$size/
     ln -s /usr/share/icons/elementary/$directory/$size/$icon $icon
     cd ../../
 }
