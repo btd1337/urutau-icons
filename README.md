@@ -14,6 +14,11 @@
 
 ## Installation:
 
+### Requirements
+
+ - Elementary icon theme: https://github.com/elementary/icons
+ * Already installed by default in elementary OS
+
 ### First Installation?
 
 Install Git if you don't already have it installed.
