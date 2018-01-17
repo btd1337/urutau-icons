@@ -16,8 +16,7 @@
 
 ### Requirements
 
- - Elementary icon theme: https://github.com/elementary/icons
- * Already installed by default in elementary OS
+ - Elementary icon theme: https://github.com/elementary/icons _Note: Already installed by default in elementary OS_
 
 ### First Installation?
 
