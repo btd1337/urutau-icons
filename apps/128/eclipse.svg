@@ -97,19 +97,19 @@
        cx="23.896">
       <stop
          offset="0"
-         style="stop-color:#05051e;stop-opacity:1;"
+         style="stop-color:#432f91;stop-opacity:1"
          id="stop4750" />
       <stop
          offset="0.26238"
-         style="stop-color:#112651;stop-opacity:1;"
+         style="stop-color:#1a4aa2;stop-opacity:1"
          id="stop4752" />
       <stop
          offset="0.66093999"
-         style="stop-color:#1a4aa2;stop-opacity:1"
+         style="stop-color:#112651;stop-opacity:1"
          id="stop4754" />
       <stop
          offset="1"
-         style="stop-color:#432f91;stop-opacity:1"
+         style="stop-color:#05051e;stop-opacity:1"
          id="stop4756" />
     </radialGradient>
     <linearGradient
@@ -1252,7 +1252,7 @@
        x2="122.57829"
        y2="66.342621"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="rotate(180,66.552404,66.342622)" />
+       gradientTransform="translate(-3.500012e-6)" />
   </defs>
   <metadata
      id="metadata3494">
@@ -1289,8 +1289,8 @@
   <path
      inkscape:connector-curvature="0"
      id="path2555-7-9"
-     d="m 66.5524,122.36851 c 30.91316,0 56.02589,-25.11273 56.02589,-56.025883 0,-30.913154 -25.11273,-56.025912 -56.02589,-56.025892 -30.91315,0 -56.025906,25.112738 -56.025886,56.025892 0,30.913153 25.112736,56.025883 56.025886,56.025883 z"
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4742);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.475;stroke-miterlimit:4;stroke-dasharray:none;marker:none;enable-background:accumulate" />
+     d="m 66.552404,10.316734 c -30.91316,0 -56.02589,25.11273 -56.02589,56.025883 0,30.913154 25.11273,56.025913 56.02589,56.025893 30.91315,0 56.025906,-25.112739 56.025886,-56.025893 0,-30.913153 -25.112736,-56.025883 -56.025886,-56.025883 z"
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4742);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.47499999;stroke-miterlimit:4;stroke-dasharray:none;marker:none;enable-background:accumulate" />
   <path
      inkscape:connector-curvature="0"
      id="path2555-7-1-3"
