@@ -11,8 +11,12 @@ function main() {
     
     for directory in "${directories[@]}"
     do
+        # check if a directory doesn't exist:
+        if [ ! -d "$directory" ]; then
+          mkdir $directory
+        fi
         for size in "${sizes[@]}"
-        do
+        do                     
             fileList $directory $size
        done        
    done
@@ -62,7 +66,12 @@ function generateSymlink() {
     local icon=$1
     local directory=$2
     local size=$3
-    cd $directory/$size/
+    
+    cd $directory/
+    if [ ! -d "$size" ]; then
+      mkdir $size
+    fi
+    cd $size/
     ln -sf /usr/share/icons/elementary/$directory/$size/$icon $icon
     cd $home
 }
