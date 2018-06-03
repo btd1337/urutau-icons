@@ -8,7 +8,7 @@ home="$(pwd)"   # into /scripts folder
 
 function main() {
     getDirectories
-    
+
     for directory in "${directories[@]}"
     do
         # check if a directory doesn't exist:
@@ -16,22 +16,22 @@ function main() {
           mkdir $directory
         fi
         for size in "${sizes[@]}"
-        do                     
+        do
             fileList $directory $size
-       done        
+       done
    done
-    
+
 }
 
 function getDirectories() {                             # get all directories in the elementary icon folder
     local current=''
-    cd /usr/share/icons/elementary 
+    cd /usr/share/icons/elementary
     for directory in */
     do
         current="$(echo $directory)"                    # directory name include /
         directory_name=${current::-1}                   # exclude last char '/'
         if [ "$directory_name" != "cursors" ]           # it doesn't include cursor folder
-        then 
+        then
             directories+=($directory_name)
         fi
     done
@@ -41,18 +41,18 @@ function getDirectories() {                             # get all directories in
 function fileList() {
     local directory=$1
     local size=$2
-    local search_file=( $(find /usr/share/icons/elementary/$directory/$size/) )    
+    local search_file=( $(find /usr/share/icons/elementary/$directory/$size/) )
     if [ $search_file ]
     then
         for entry in "${search_file[@]}"
-        do  
+        do
             if [ "${entry##*/}" != "" ]                          # block blank strings
             then
                 removeIcon ${entry##*/} $directory $size         #${entry##*/} => it's necessary to not include the icon path
-                generateSymlink ${entry##*/} $directory $size           
+                generateSymlink ${entry##*/} $directory $size
             fi
         done
-    fi       
+    fi
 }
 
 function removeIcon() {
@@ -66,7 +66,7 @@ function generateSymlink() {
     local icon=$1
     local directory=$2
     local size=$3
-    
+
     cd $directory/
     if [ ! -d "$size" ]; then
       mkdir $size
