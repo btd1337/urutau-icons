@@ -1,11 +1,13 @@
-### Donate
+> Donate
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=X85LVKF3HYPZL&lc=US&item_name=btd1337&item_number=elementary%2dicons&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/btd1337/elementary-full-icon-theme/master/logo.png"><br>
-  <b>Urutau Icons</b><br><br>
-  A package of icons that transforms the third-party icons with the elementary appearance.<br><br>
+  <b>Urutau Icons</b>
+  <br><br>
+  A icon pack that transforms the third-party icons with the elementary appearance.
+  <br><br>
 </p>
 
 ![First Screenshot](https://raw.githubusercontent.com/btd1337/elementary-full-icon-theme/master/preview/img1.jpeg)  
@@ -18,20 +20,39 @@
 
 ---
 
+# Table of Contents
+
+- [Table of Contents](#table-of-contents)
+  - [Language Selection](#language-selection)
+  - [Installation](#installation)
+    - [Requirements](#requirements)
+    - [Installation on Ubuntu Based Distros](#installation-ubuntu-based-distros)
+    - [Installation in Other Distros](#installation-other-distros)
+      - [First Installation?](#first-installation)
+      - [Update?](#first-installation)
+  - [Uninstall](#uninstall)
+
+# Language Selection
+
+[:gb: English](https://github.com/btd1337/urutau-icons/tree/master/README.md)
+
+[🇵🇹 Portuguese](https://github.com/btd1337/urutau-icons/tree/master/TRANSLATIONS/README-pt.md)
+
+> Create Language support in TRANSLATIONS folder and to add in [this README](https://github.com/btd1337/urutau-icons/tree/master/README.md)
+
 # Installation:
 
 ## Requirements
 
- - elementary icon theme: https://github.com/elementary/icons 
+ - elementary icon theme: https://github.com/elementary/icons
+
  > Note 1: Already installed by default in elementary OS
- 
- > Note 2: The symbol **$** means Normal user and **#** means Root user
 
 ## Installation on Ubuntu Based Distros
 
-```
-$ wget https://github.com/btd1337/urutau-icons/releases/download/latest/urutau-icons.deb
-# dpkg -i urutau-icons.deb
+```sh
+wget https://github.com/btd1337/urutau-icons/releases/download/latest/urutau-icons.deb
+sudo dpkg -i urutau-icons.deb
 ```
 
 ---
@@ -40,36 +61,36 @@ $ wget https://github.com/btd1337/urutau-icons/releases/download/latest/urutau-i
 
 ### First Installation?
 
-Install Git if you don't already have it installed.
+- Install `Git` if you don't already have it installed
 
-```
-# apt install git
-```
-
-Clone the repository (or download files):  
-
-```
-# git clone https://github.com/btd1337/urutau-icons.git /usr/share/icons/urutau-icons
+```sh
+sudo apt install git
 ```
 
-Set theme:  
+- Clone the repository (or download files)
 
-```
-$ gsettings set org.gnome.desktop.interface icon-theme "urutau-icons"
-```
-
-## Update?
-
-```
-$ cd /usr/share/icons/urutau-icons
-# git pull
+```sh
+sudo git clone https://github.com/btd1337/urutau-icons.git /usr/share/icons/urutau-icons
 ```
 
-## Uninstall?
+- Set theme  
 
-```
-$ gsettings set org.gnome.desktop.interface icon-theme "elementary"
-# rm -R /usr/share/icons/urutau-icons
+```sh
+gsettings set org.gnome.desktop.interface icon-theme "urutau-icons"
 ```
 
-## The project is starting now, help us improve it. Submit new icons!
+### Update?
+
+```sh
+cd /usr/share/icons/urutau-icons
+sudo git pull
+```
+
+## Uninstall
+
+```sh
+gsettings set org.gnome.desktop.interface icon-theme "elementary"
+sudo rm -Rf /usr/share/icons/urutau-icons
+```
+
+> The project is starting now, help us improve it. See in [this guide](https://elementary.io/docs/human-interface-guidelines#iconography) how to create an icon with elementary appearance and send us your creations!
