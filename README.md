@@ -1,6 +1,6 @@
 > Donate
 
-[![Ko-fi](https://ko-fi.com/img/Kofi_Logo_Blue.svg)](ko-fi.com/btd1337)
+[![Ko-fi](https://ko-fi.com/img/Kofi_Logo_Blue.svg)](https://ko-fi.com/btd1337)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/btd1337/elementary-full-icon-theme/master/logo.png"><br>
@@ -99,7 +99,7 @@ Appreciate for coffee or beer :)
 
 ##### Option 1:
 
-[![Ko-fi](https://ko-fi.com/img/Kofi_Logo_Blue.svg)](ko-fi.com/btd1337)
+[![Ko-fi](https://ko-fi.com/img/Kofi_Logo_Blue.svg)](https://ko-fi.com/btd1337)
 
 ##### Option 2:
 
