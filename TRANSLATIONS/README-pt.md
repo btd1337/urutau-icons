@@ -1,6 +1,6 @@
 > Doações
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=X85LVKF3HYPZL&lc=US&item_name=btd1337&item_number=elementary%2dicons&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
+[![Ko-fi](https://ko-fi.com/img/Kofi_Logo_Blue.svg)](https://ko-fi.com/btd1337)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/btd1337/elementary-full-icon-theme/master/logo.png"><br>
@@ -92,5 +92,19 @@ sudo git pull
 gsettings set org.gnome.desktop.interface icon-theme "elementary"
 sudo rm -Rf /usr/share/icons/urutau-icons
 ```
+
+## Doações
+
+Aprecie por um café ou cerveja :)
+
+##### Opção 1:
+
+[![Ko-fi](https://ko-fi.com/img/Kofi_Logo_Blue.svg)](https://ko-fi.com/btd1337)
+
+##### Opção 2:
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=X85LVKF3HYPZL&lc=US&item_name=btd1337&item_number=elementary%2dicons&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
+
+---
 
 > O projeto está começando agora, nos ajude a melhorar. Veja [neste guia](https://elementary.io/docs/human-interface-guidelines#iconography) como criar um ícone com a aparência elementary e nos envie suas criações!
